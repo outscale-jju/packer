@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/packer/plugin"
-	"github.com/mitchellh/packer/post-processor/docker-import"
+	"github.com/outscale/packer/packer/plugin"
+	"github.com/outscale/packer/post-processor/docker-import"
 )
 
 func main() {

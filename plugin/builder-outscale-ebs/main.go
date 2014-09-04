@@ -2,7 +2,7 @@ package main
 
 import (
 	"github.com/outscale/packer/builder/outscale/ebs"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/outscale/packer/packer/plugin"
 )
 
 func main() {

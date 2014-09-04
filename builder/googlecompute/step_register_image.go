@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 // StepRegisterImage represents a Packer build step that registers GCE machine images.

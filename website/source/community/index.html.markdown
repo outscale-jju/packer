@@ -12,7 +12,7 @@ dedicated users willing to help through various mediums.
 
 **Mailing List:**&nbsp;[Packer Google Group](http://groups.google.com/group/packer-tool)
 
-**Bug Tracker:**&nbsp;[Issue tracker on GitHub](https://github.com/mitchellh/packer/issues).
+**Bug Tracker:**&nbsp;[Issue tracker on GitHub](https://github.com/outscale/packer/issues).
 Please only use this for reporting bugs. Do not ask for general help here. Use IRC
 or the mailing list for that.
 

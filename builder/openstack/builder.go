@@ -6,8 +6,8 @@ package openstack
 import (
 	"fmt"
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
 	"github.com/rackspace/gophercloud"
 	"log"
 )

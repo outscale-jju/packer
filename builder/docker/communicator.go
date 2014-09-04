@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/ActiveState/tail"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"io"
 	"io/ioutil"
 	"log"

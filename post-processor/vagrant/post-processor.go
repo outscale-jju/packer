@@ -11,8 +11,8 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
 )
 
 var builtins = map[string]string{

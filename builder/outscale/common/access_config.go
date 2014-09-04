@@ -3,7 +3,7 @@ package common
 import (
 	"fmt"
 	"github.com/outscale/goamz/aws"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"strings"
 	"unicode"
 )

@@ -2,8 +2,8 @@ package docker
 
 import (
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
 	"log"
 )
 

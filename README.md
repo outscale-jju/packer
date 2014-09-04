@@ -93,7 +93,7 @@ to compile packer. You can install that with:
 $ go get -u github.com/mitchellh/gox
 ```
 
-Next, clone this repository into `$GOPATH/src/github.com/mitchellh/packer` and
+Next, clone this repository into `$GOPATH/src/github.com/outscale/packer` and
 then just type `make`. In a few moments, you'll have a working `packer` executable:
 
 ```

@@ -9,7 +9,7 @@ import (
 	"code.google.com/p/goauth2/oauth"
 	"code.google.com/p/goauth2/oauth/jwt"
 	"code.google.com/p/google-api-go-client/compute/v1"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 // driverGCE is a Driver implementation that actually talks to GCE.

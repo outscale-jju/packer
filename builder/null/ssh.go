@@ -4,7 +4,7 @@ import (
 	gossh "code.google.com/p/go.crypto/ssh"
 	"fmt"
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/communicator/ssh"
+	"github.com/outscale/packer/communicator/ssh"
 	"io/ioutil"
 )
 

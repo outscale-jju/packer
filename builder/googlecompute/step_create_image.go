@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 // StepCreateImage represents a Packer build step that creates GCE machine

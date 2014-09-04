@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"fmt"
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"log"
 	"os"
 	"path/filepath"

@@ -7,7 +7,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 type SSHConfig struct {

@@ -3,8 +3,8 @@ package vsphere
 import (
 	"bytes"
 	"fmt"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
 	"log"
 	"net/url"
 	"os/exec"

@@ -20,7 +20,7 @@ the page on [installing Packer](/intro/getting-started/setup.html).
 <strong>Note:</strong> We're always looking to officially support more
 target platforms. If you're interested in adding support for another
 platform, please help by opening an issue or pull request within
-<a href="https://github.com/mitchellh/packer">GitHub</a> so we can discuss
+<a href="https://github.com/outscale/packer">GitHub</a> so we can discuss
 how to make it happen.
 </div>
 

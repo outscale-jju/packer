@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/command/validate"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/outscale/packer/command/validate"
+	"github.com/outscale/packer/packer/plugin"
 )
 
 func main() {

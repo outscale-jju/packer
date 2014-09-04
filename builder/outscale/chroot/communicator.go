@@ -3,7 +3,7 @@ package chroot
 import (
 	"bytes"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"io"
 	"io/ioutil"
 	"log"

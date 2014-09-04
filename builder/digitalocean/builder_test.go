@@ -1,7 +1,7 @@
 package digitalocean
 
 import (
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"os"
 	"strconv"
 	"testing"

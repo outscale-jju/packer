@@ -3,7 +3,7 @@ package packer
 import (
 	"bytes"
 	"fmt"
-	"github.com/mitchellh/packer/common/uuid"
+	"github.com/outscale/packer/common/uuid"
 	"os"
 	"strconv"
 	"text/template"

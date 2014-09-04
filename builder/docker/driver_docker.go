@@ -3,7 +3,7 @@ package docker
 import (
 	"bytes"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"io"
 	"log"
 	"os"

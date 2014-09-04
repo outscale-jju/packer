@@ -3,7 +3,7 @@ package common
 import (
 	"errors"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"os"
 	"time"
 )

@@ -12,8 +12,8 @@ import (
 	"github.com/outscale/goamz/ec2"
 	"github.com/mitchellh/multistep"
 	awscommon "github.com/outscale/packer/builder/outscale/common"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
 )
 
 // The unique ID for this builder

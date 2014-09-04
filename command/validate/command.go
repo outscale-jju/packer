@@ -3,8 +3,8 @@ package validate
 import (
 	"flag"
 	"fmt"
-	cmdcommon "github.com/mitchellh/packer/common/command"
-	"github.com/mitchellh/packer/packer"
+	cmdcommon "github.com/outscale/packer/common/command"
+	"github.com/outscale/packer/packer"
 	"log"
 	"strings"
 )

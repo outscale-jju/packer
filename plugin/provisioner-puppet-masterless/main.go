@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/packer/plugin"
-	"github.com/mitchellh/packer/provisioner/puppet-masterless"
+	"github.com/outscale/packer/packer/plugin"
+	"github.com/outscale/packer/provisioner/puppet-masterless"
 )
 
 func main() {

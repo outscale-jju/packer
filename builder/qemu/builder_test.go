@@ -1,7 +1,7 @@
 package qemu
 
 import (
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"io/ioutil"
 	"os"
 	"reflect"

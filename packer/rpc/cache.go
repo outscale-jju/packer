@@ -1,7 +1,7 @@
 package rpc
 
 import (
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"net/rpc"
 )
 

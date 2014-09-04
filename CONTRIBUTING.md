@@ -73,15 +73,15 @@ following steps in order to be able to compile and test Packer.
     ```
 
 4. Download the Packer source (and its dependencies) by running
-   `go get github.com/mitchellh/packer`. This will download the Packer
-   source to `$GOPATH/src/github.com/mitchellh/packer`.
+   `go get github.com/outscale/packer`. This will download the Packer
+   source to `$GOPATH/src/github.com/outscale/packer`.
 
 5. Make your changes to the Packer source. You can run `make` from the main
    source directory to recompile all the binaries. Any compilation errors
    will be shown when the binaries are rebuilding.
 
 6. Test your changes by running `make test` and then running
-   `$GOPATH/src/github.com/mitchellh/packer/bin/packer` to build a machine.
+   `$GOPATH/src/github.com/outscale/packer/bin/packer` to build a machine.
 
 7. If everything works well and the tests pass, run `go fmt` on your code
    before submitting a pull request.

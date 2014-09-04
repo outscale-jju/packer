@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 func TestStepCreateImage_impl(t *testing.T) {

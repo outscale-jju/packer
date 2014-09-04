@@ -5,7 +5,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"log"
 	"os"
 	"strings"

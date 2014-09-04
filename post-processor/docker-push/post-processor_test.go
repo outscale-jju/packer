@@ -2,9 +2,9 @@ package dockerpush
 
 import (
 	"bytes"
-	"github.com/mitchellh/packer/builder/docker"
-	"github.com/mitchellh/packer/packer"
-	"github.com/mitchellh/packer/post-processor/docker-import"
+	"github.com/outscale/packer/builder/docker"
+	"github.com/outscale/packer/packer"
+	"github.com/outscale/packer/post-processor/docker-import"
 	"testing"
 )
 

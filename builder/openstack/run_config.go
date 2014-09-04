@@ -3,7 +3,7 @@ package openstack
 import (
 	"errors"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"time"
 )
 

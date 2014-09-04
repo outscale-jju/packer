@@ -2,7 +2,7 @@ package common
 
 import (
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 type VBoxManagePostConfig struct {

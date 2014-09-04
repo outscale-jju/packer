@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/outscale/goamz/ec2"
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/common/uuid"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common/uuid"
+	"github.com/outscale/packer/packer"
 	"log"
 	"time"
 )

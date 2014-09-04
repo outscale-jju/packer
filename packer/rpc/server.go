@@ -2,7 +2,7 @@ package rpc
 
 import (
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"github.com/ugorji/go/codec"
 	"io"
 	"log"

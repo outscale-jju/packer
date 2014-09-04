@@ -36,7 +36,7 @@ rm -rf pkg/
 gox \
     -os="${XC_OS}" \
     -arch="${XC_ARCH}" \
-    -ldflags "-X github.com/mitchellh/packer/packer.GitCommit ${GIT_COMMIT}${GIT_DIRTY}" \
+    -ldflags "-X github.com/outscale/packer/packer.GitCommit ${GIT_COMMIT}${GIT_DIRTY}" \
     -output "pkg/{{.OS}}_{{.Arch}}/packer-{{.Dir}}" \
     ./...
 

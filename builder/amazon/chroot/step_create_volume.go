@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"github.com/mitchellh/goamz/ec2"
 	"github.com/mitchellh/multistep"
-	awscommon "github.com/mitchellh/packer/builder/amazon/common"
-	"github.com/mitchellh/packer/packer"
+	awscommon "github.com/outscale/packer/builder/amazon/common"
+	"github.com/outscale/packer/packer"
 	"log"
 )
 

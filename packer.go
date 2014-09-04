@@ -4,8 +4,8 @@ package main
 import (
 	"bytes"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/outscale/packer/packer"
+	"github.com/outscale/packer/packer/plugin"
 	"github.com/mitchellh/panicwrap"
 	"io"
 	"io/ioutil"

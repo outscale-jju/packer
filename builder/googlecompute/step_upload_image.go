@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 // StepUploadImage represents a Packer build step that uploads GCE machine images.

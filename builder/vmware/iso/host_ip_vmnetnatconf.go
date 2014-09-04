@@ -9,7 +9,7 @@ import (
 	"regexp"
 	"strings"
 
-	vmwcommon "github.com/mitchellh/packer/builder/vmware/common"
+	vmwcommon "github.com/outscale/packer/builder/vmware/common"
 )
 
 // VMnetNatConfIPFinder finds the IP address of the host machine by

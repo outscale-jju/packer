@@ -1,7 +1,7 @@
 package inspect
 
 import (
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"testing"
 )
 

@@ -1,7 +1,7 @@
 package file
 
 import (
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"io/ioutil"
 	"os"
 	"strings"

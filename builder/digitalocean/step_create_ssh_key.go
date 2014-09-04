@@ -8,8 +8,8 @@ import (
 	"encoding/pem"
 	"fmt"
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/common/uuid"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common/uuid"
+	"github.com/outscale/packer/packer"
 	"log"
 )
 

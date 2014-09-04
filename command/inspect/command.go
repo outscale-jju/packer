@@ -3,7 +3,7 @@ package inspect
 import (
 	"flag"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 	"log"
 	"sort"
 	"strings"

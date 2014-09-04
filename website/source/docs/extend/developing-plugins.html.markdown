@@ -50,10 +50,10 @@ Other than the following two packages, you're encouraged to use whatever
 packages you want. Because plugins are their own processes, there is
 no danger of colliding dependencies.
 
-* `github.com/mitchellh/packer` - Contains all the interfaces that you
+* `github.com/outscale/packer` - Contains all the interfaces that you
   have to implement for any given plugin.
 
-* `github.com/mitchellh/packer/plugin` - Contains the code to serve the
+* `github.com/outscale/packer/plugin` - Contains the code to serve the
   plugin. This handles all the inter-process communication stuff.
 
 There are two steps involved in creating a plugin:
@@ -69,7 +69,7 @@ implements the `packer.Builder` interface:
 
 <pre class="prettyprint">
 import (
-  "github.com/mitchellh/packer/plugin"
+  "github.com/outscale/packer/plugin"
 )
 
 // Assume this implements packer.Builder

@@ -5,8 +5,8 @@ package puppetmasterless
 
 import (
 	"fmt"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
 	"os"
 	"path/filepath"
 	"strings"

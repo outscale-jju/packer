@@ -3,7 +3,7 @@ package vagrantcloud
 import (
 	"fmt"
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 type Upload struct {

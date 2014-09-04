@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/command/inspect"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/outscale/packer/command/inspect"
+	"github.com/outscale/packer/packer/plugin"
 )
 
 func main() {

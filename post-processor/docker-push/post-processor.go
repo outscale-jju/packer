@@ -2,10 +2,10 @@ package dockerpush
 
 import (
 	"fmt"
-	"github.com/mitchellh/packer/builder/docker"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
-	"github.com/mitchellh/packer/post-processor/docker-import"
+	"github.com/outscale/packer/builder/docker"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
+	"github.com/outscale/packer/post-processor/docker-import"
 	"strings"
 )
 

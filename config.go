@@ -3,8 +3,8 @@ package main
 import (
 	"encoding/json"
 	"github.com/mitchellh/osext"
-	"github.com/mitchellh/packer/packer"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/outscale/packer/packer"
+	"github.com/outscale/packer/packer/plugin"
 	"io"
 	"log"
 	"os/exec"

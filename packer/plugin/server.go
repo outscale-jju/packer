@@ -10,8 +10,8 @@ package plugin
 import (
 	"errors"
 	"fmt"
-	"github.com/mitchellh/packer/packer"
-	packrpc "github.com/mitchellh/packer/packer/rpc"
+	"github.com/outscale/packer/packer"
+	packrpc "github.com/outscale/packer/packer/rpc"
 	"io/ioutil"
 	"log"
 	"net"

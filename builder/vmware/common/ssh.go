@@ -9,7 +9,7 @@ import (
 	"os"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/communicator/ssh"
+	"github.com/outscale/packer/communicator/ssh"
 )
 
 func SSHAddressFunc(config *SSHConfig) func(multistep.StateBag) (string, error) {

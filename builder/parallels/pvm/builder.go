@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 	"github.com/mitchellh/multistep"
-	parallelscommon "github.com/mitchellh/packer/builder/parallels/common"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	parallelscommon "github.com/outscale/packer/builder/parallels/common"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
 	"log"
 )
 

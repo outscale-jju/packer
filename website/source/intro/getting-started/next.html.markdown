@@ -16,5 +16,5 @@ more of a reference of all the overall features and options of Packer.
 
 As you use Packer more, please voice your comments and concerns on
 the [mailing list or IRC](/community). Additionally, Packer is
-[open source](https://github.com/mitchellh/packer) so please contribute
+[open source](https://github.com/outscale/packer) so please contribute
 if you'd like to. Contributions are very welcome.

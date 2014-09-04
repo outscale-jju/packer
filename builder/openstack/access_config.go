@@ -3,8 +3,8 @@ package openstack
 import (
 	"crypto/tls"
 	"fmt"
-	"github.com/mitchellh/packer/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/common"
+	"github.com/outscale/packer/packer"
 	"github.com/rackspace/gophercloud"
 	"net/http"
 	"net/url"

@@ -5,7 +5,7 @@ import (
 	"github.com/outscale/goamz/ec2"
 	"github.com/mitchellh/multistep"
 	awscommon "github.com/outscale/packer/builder/outscale/common"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 type stepStopInstance struct{}

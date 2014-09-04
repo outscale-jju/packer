@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/mitchellh/multistep"
-	"github.com/mitchellh/packer/packer"
+	"github.com/outscale/packer/packer"
 )
 
 // StepCreateInstance represents a Packer build step that creates GCE instances.

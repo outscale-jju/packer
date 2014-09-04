@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/mitchellh/packer/builder/qemu"
-	"github.com/mitchellh/packer/packer/plugin"
+	"github.com/outscale/packer/builder/qemu"
+	"github.com/outscale/packer/packer/plugin"
 )
 
 func main() {
